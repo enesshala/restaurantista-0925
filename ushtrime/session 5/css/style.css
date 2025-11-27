@@ -1,0 +1,52 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.box-model {
+    /* padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    padding-left: 30px; */
+    padding: 50px 60px 70px 80px;
+
+    /* border-top-width: 10px;
+    border-top-color: red;
+    border-top-style: solid;
+    
+    border-right-width: 10px;
+    border-right-color: red;
+    border-right-style: solid;
+
+    border-bottom-width: 10px;
+    border-bottom-color: red;
+    border-bottom-style: solid;
+
+    border-left-width: 10px;
+    border-left-color: red;
+    border-left-style: solid; */
+    border: 10px solid red;
+    border-radius: 5000px;
+
+    /* Margin */
+    margin: 150px;
+}
+
+
+.my-button{
+  display: flex;
+  gap: 30px;
+  padding:0 20px;
+  border: 1px solid orangered;
+  width: fit-content;
+  border-radius: 200px;
+}
+
+
+.my-div{
+  width: 500px;
+  height: 200px;
+  border: 50px solid red;
+  padding: 20px;
+}

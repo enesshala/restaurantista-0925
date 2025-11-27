@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Arbrim Thaci",
+        "role": "Ceo",
+        "image": "img/arbrim-thaci.webp",
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga excepturi dignissimos est non unde in labore quod facilis enim nihil molestias eaque perspiciatis odio rerum, quasi hic cum cupiditate eum. Lorem, ipsum dolor. Lorem, ipsum."
+    },
+    {
+        "name": "Enes Shala",
+        "role": "Lead Frontend",
+        "image": "img/enes-shala.png",
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga excepturi dignissimos est non unde in labore quod facilis enim nihil molestias eaque perspiciatis odio rerum, quasi hic cum cupiditate eum. Lorem, ipsum dolor. Lorem, ipsum."
+    },
+    {
+        "name": "Violeta Thaci",
+        "role": "Lead Designer",
+        "image": "img/violeta-thaci.webp",
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga excepturi dignissimos est non unde in labore quod facilis enim nihil molestias eaque perspiciatis odio rerum, quasi hic cum cupiditate eum. Lorem, ipsum dolor. Lorem, ipsum."
+    },
+    {
+        "name": "Filan Fisteku",
+        "role": "Lead Designer",
+        "image": "img/user.png",
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga excepturi dignissimos est non unde in labore quod facilis enim nihil molestias eaque perspiciatis odio rerum, quasi hic cum cupiditate eum. Lorem, ipsum dolor. Lorem, ipsum."
+    }
+]

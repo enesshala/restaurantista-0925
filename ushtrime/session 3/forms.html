@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Format</title>
+    </head>
+    <body>
+        <h1>Format ne<br />HTML</h1>
+
+        <form method="GET">
+            <label for="fullname">
+                Emri dhe mbiemri:
+                <input
+                    type="text"
+                    name="fullname"
+                    placeholder="Emri dhe mbiemri"
+                    value="Filan Fisteku"
+                />
+                <br />
+            </label>
+
+            <label for="password">
+                Fjalekalimi:
+                <input
+                    type="password"
+                    name="password"
+                    placeholder="Fjalekalimi"
+                />
+                <br />
+            </label>
+
+            <label for="email">
+                Email:
+                <input type="email" name="email" placeholder="Email" /> <br />
+            </label>
+
+            <label for="dob">
+                Ditelindja
+                <input type="date" name="dob" placeholder="Ditelindja juaj" />
+                <br />
+            </label>
+
+            <h3>Gjinia</h3>
+            <label for="male">
+                Mashkull
+                <input type="radio" name="gender" id="male" checked />
+            </label>
+
+            <label for="female">
+                Femer
+                <input type="radio" name="gender" id="female" />
+            </label>
+
+            <select name="" id="">
+              <option value="Ferizaj">Ferizaj</option>
+              <option value="Prishtina">Prishtina</option>
+              <option value="Gjilani">Gjilani</option>
+            </select>
+
+            <h3>Skills</h3>
+            <label for="html">
+              HTML
+              <input type="checkbox" name="skills" id="html">
+            </label>
+
+            <label for="css">
+              CSS
+              <input type="checkbox" name="skills" id="css">
+            </label>
+
+            <label for="js">
+              Javascript
+              <input type="checkbox" name="skills" id="js">
+            </label> <br>
+
+            <textarea name="" id="" placeholder="Mesazhi" rows="5">
+            </textarea>
+
+            <input type="week">
+
+            <button type="submit">Register</button>
+        </form>
+    </body>
+</html>
